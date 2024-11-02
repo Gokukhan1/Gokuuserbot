@@ -1,6 +1,6 @@
 <h1 align="center"><b>тнє нєℓℓвσт</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
+<p align="center"><img src="https://files.catbox.moe/ppms0p.jpg" alt="The UserBot"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
@@ -11,20 +11,17 @@
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Gokukhan1/Gokuuserbot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Gokukhan1/Gokuuserbot?style=social)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/Gokukhan1/Gokuuserbot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-[![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://the-hellbot.gitbook.io/)
+[![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://Gokukhan1.gitbook.io/)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://telegram.dog/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://telegram.dog/its_hellbot)
-
-[![Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-[![Views](https://img.shields.io/youtube/views/leMyoT-qDH4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/leMyoT-qDH4)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/lolpagalokigc)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/mlohvdryj)
 
 ---
 
@@ -33,7 +30,7 @@
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://github.com/The-Hellbot/Hellbot/fork) and [starring](https://github.com/The-Hellbot/Hellbot/) this repository on GitHub.
+    > Begin by [forking](https://github.com/Gokukhan1/Gokuuserbot/fork) and [starring](https://github.com/Gokukhan1/Gokuuserbot/) this repository on GitHub.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -150,10 +147,10 @@ Should you require assistance, kindly engage with our support group for communit
 </p>
 
 <h4 align="center">
-    Copyright (C) 2024 <a href="https://github.com/The-HellBot">The-HellBot</a>
+    Copyright (C) 2024 <a href="https://github.com/Gokukhan1">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [HellBot](https://github.com/Gokukhan1/Gokuuserbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -167,7 +164,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Anand</a>
+    Made with ❤️ by <a href="https://github.com/Gokukhan1">Anand</a>
 </h2>
 
 ---
