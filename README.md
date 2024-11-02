@@ -1,4 +1,4 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b>тнє Userbot</b></h1>
 
 <p align="center"><img src="https://files.catbox.moe/ppms0p.jpg" alt="The UserBot"></p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Deploying HellBot on Heroku
+## Deploying userBot on Heroku
 
 Follow these 4 straightforward steps to deploy HellBot on Heroku:
 
@@ -49,7 +49,7 @@ That's it! You've successfully deployed HellBot on Heroku. Now scale dynos and s
 
 ---
 
-## Deploying HellBot on Linux
+## Deploying userBot on Linux
 
 Hellbot can be deployed on any Linux VPS and terminal.
 
@@ -136,21 +136,21 @@ Should you require assistance, kindly engage with our support group for communit
 
 > Thank you for choosing our bot and for your understanding and adherence.
 
-~ Team HellBot ❤️
+~ Team planet sadala  ❤️
 
 ---
 
 # License
 
 <p align="center">
-    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="HellBot License">
+    <img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="Gokuuserbot License">
 </p>
 
 <h4 align="center">
     Copyright (C) 2024 <a href="https://github.com/Gokukhan1">The-HellBot</a>
 </h4>
 
-Project [HellBot](https://github.com/Gokukhan1/Gokuuserbot) is free software: you can redistribute it and/or modify
+Project [UserBot](https://github.com/Gokukhan1/Gokuuserbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -164,7 +164,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/Gokukhan1">Anand</a>
+    Made with ❤️ by <a href="https://github.com/Gokukhan1">Goku</a>
 </h2>
 
 ---
